@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<<h1 align="center">Hi I'm Rishi</h1>
+<h1 align="center">I'm Rishi</h1>
 <h3 align="center">Full Stack, full passion, all code!.</h3>
 
 - » All of my projects are available at my[Portfolio](https://xrishii.github.io/Portfolio/)
